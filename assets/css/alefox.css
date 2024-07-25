@@ -10602,7 +10602,7 @@ body.megamenu-popup-active .mobile-nav__content {
   border: none;
   height: 460px;
   width: 100%;
-  mix-blend-mode: luminosity;
+  /* mix-blend-mode: luminosity; */
 }
 
 /*--------------------------------------------------------------
